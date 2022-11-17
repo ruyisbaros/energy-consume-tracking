@@ -1,7 +1,7 @@
 
 # Create a Basic Energy_Counter tracking app [2022]
 
-Scenario: We have counters that record the energies produced in different locations. Officers read the counters regularly. Employees have efficiency 
+Scenario: We have counters which record the energies produced in different locations. Officers read the counters regularly. Employees have efficiency 
 values for each counter. Therefore, they manually correct the possible incorrect values.
 
 Note: The data received in JSON format was mapped by me and converted into a pojo object then written to the H2 database from there.
